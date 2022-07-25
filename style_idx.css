@@ -1,0 +1,72 @@
+/* @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+
+/* contents--Kritika */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+/* body {
+  background-color: #e6e6e6;
+  color: #3d56b2;
+} */
+
+body {
+  overflow-x: hidden;
+}
+
+symptoms_precautions
+{ 
+  padding: 2px;
+  margin: 0.5px;
+  /* background-color: #3d56b2;
+  opacity: 0.2; */
+}
+
+.btn1 {
+  color: #fff;
+ /* // color: aqua; */
+  background-color: #3d56b2;
+  border-radius: 35px;
+  padding: 5px 20px 5px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn2 {
+  color: #fff;
+  background-color: #3d56b2;
+  border-radius: 35px;
+  padding: 5px 20px 5px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn3 {
+  color: #fff;
+  background-color: #3d56b2;
+  border-radius: 35px;
+  padding: 5px 20px 5px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.btn_d,
+.btn_r {
+  color: #fff;
+  background-color: #3d56b2;
+  border-radius: 35px;
+  padding: 5px 20px 5px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+}
+img,
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
